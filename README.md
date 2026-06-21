@@ -1,2 +1,14 @@
 # dailyhuatihui-hub
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
